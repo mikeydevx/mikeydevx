@@ -15,7 +15,7 @@
 
 ## 📚 Actualmente estoy aprendiendo
 
-- Desarrollo de aplicaciones Android con Java
+- Desarrollo de aplicaciones Android
 - Lógica avanzada y estructuras de control
 - Programación orientada a objetos
 - Fundamentos de redes y ciberseguridad
