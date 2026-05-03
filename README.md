@@ -6,7 +6,7 @@
 
 ## 💡 Habilidades
 
-- **Lenguajes**: Java, C++, PHP, JavaScript, HTML, CSS
+- **Lenguajes**: Java, C++, PHP, JavaScript, HTML, CSS, C
 - **Bases de datos**: MySQL
 - **Herramientas**: NetBeans, Visual Studio Code, XAMPP, Cisco Packet Tracer
 - **Otros**: Manejo de redes, diseño web básico, lógica matemática aplicada
